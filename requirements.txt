@@ -3,3 +3,4 @@ pytest>=7.0
 python-dotenv>=1.0
 streamlit>=1.28
 ibm-watsonx-ai>=1.0
+google-generativeai>=0.7
